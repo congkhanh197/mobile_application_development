@@ -1,0 +1,1 @@
+Part1: Run file apk trong thu muc Part1. Nhap tao do GPS (lat, long) vao PositionX, PositionY. Nhan nut "See" de xem ket qua.
