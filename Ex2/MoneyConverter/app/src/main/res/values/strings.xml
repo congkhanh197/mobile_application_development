@@ -1,13 +1,11 @@
 <resources>
     <string name="app_name">MoneyConverter</string>
     <string-array name="planets_array">
-        <item>Mercury</item>
-        <item>Venus</item>
-        <item>Earth</item>
-        <item>Mars</item>
-        <item>Jupiter</item>
-        <item>Saturn</item>
-        <item>Uranus</item>
-        <item>Neptune</item>
+        <item>USD</item>
+        <item>VND</item>
+        <item>JPY</item>
+        <item>CNY</item>
+        <item>EUR</item>
+        <item>SGD</item>
     </string-array>
 </resources>
